@@ -53,9 +53,9 @@
 
   <div class="envelope">
     <h2>💌 Happy Birthday พี่สาวที่น่ารัก 💌</h2>
-    <textarea readonly>สุขสันต์วันเกิดนะคะ 🎂🎈
+    <textarea readonly>สุขสันต์วันเกิดนะคั้บ 🎂🎈
 ขอให้มีความสุขมาก ๆ สุขภาพแข็งแรง
-และสมหวังทุกประการ!</textarea>
+และเป็นปีที่เจอแต่สิ่งดีๆ!</textarea>
     <p style="color:#d63384; font-size:14px; margin-top:10px;">*แตะหน้าจอเพื่อเปิดเพลง 🎶</p>
   </div>
 
